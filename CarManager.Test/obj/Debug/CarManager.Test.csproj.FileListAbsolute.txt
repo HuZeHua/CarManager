@@ -1,0 +1,7 @@
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\bin\Debug\CarManager.Test.dll
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\bin\Debug\CarManager.Test.pdb
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\obj\Debug\CarManager.Test.dll
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\obj\Debug\CarManager.Test.pdb
+C:\Users\smile\Documents\Visual Studio 2015\Projects\CarManager\CarManager.Test\obj\Debug\CarManager.Test.csprojResolveAssemblyReference.cache
